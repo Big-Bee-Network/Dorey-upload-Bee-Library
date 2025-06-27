@@ -1,0 +1,6 @@
+using database_id as the unique identifier in the collection
+
+uploaded test of 9 records
+
+
+{"database_id":"Dorey_data_109441","subfamily":"Euryglossinae","species":"Euryglossa tibialis","license":"CC-BY","occurrenceStatus":"PRESENT","spatiallyValid":"TRUE","institutioncode":"QM","otherCatalogNumbers":"1414767","verbatimScientificName":"Callohesma tibialis","isDuplicateOf":"03566a9d-c379-4055-9b03-f51702bc425a","assertions":"COORDINATE_UNCERTAINTY_METERS_INVALID | FIRST_OF_YEAR | GEODETIC_DATUM_ASSUMED_WGS84 | MISSING_GEODETICDATUM | MISSING_GEOREFERENCEDBY | MISSING_GEOREFERENCEPROTOCOL | MISSING_GEOREFERENCESOURCES | MISSING_GEOREFERENCEVERIFICATIONSTATUS | MISSING_GEOREFERENCE_DATE | MISSING_TAXONRANK | MULTIMEDIA_URI_INVALID","duplicateStatus":"Kept duplicate","associatedOccurrences":"03566a9d-c379-4055-9b03-f51702bc425a","dataSource":"ALA_Apiformes","idContinuity":"TRUE","countryCO":"Australia","country_suggested":"Australia","coordinates_transposed":"TRUE","iso_a3_eh":"AUS","countryMatch":"exact"}
